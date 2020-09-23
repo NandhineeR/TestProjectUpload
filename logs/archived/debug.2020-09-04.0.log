@@ -1,0 +1,126 @@
+2020-09-04 19:04:22 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 2964 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:04:22 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:04:22 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:05:04 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 14108 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:05:04 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:05:04 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:05:58 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 16248 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:05:58 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:05:58 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:06:03 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 5.241 seconds (JVM running for 5.926)
+2020-09-04 19:17:35 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 16248 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:17:35 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:17:35 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:17:37 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.66 seconds (JVM running for 699.326)
+2020-09-04 19:20:08 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 16248 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:20:08 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:20:08 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:20:09 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.429 seconds (JVM running for 851.505)
+2020-09-04 19:20:12 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 16248 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:20:12 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:20:12 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:20:13 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.59 seconds (JVM running for 855.901)
+2020-09-04 19:21:37 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 11976 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:21:37 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:21:37 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:21:44 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 8.081 seconds (JVM running for 11.94)
+2020-09-04 19:22:30 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 11976 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:22:30 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:22:30 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:22:35 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 4.821 seconds (JVM running for 62.801)
+2020-09-04 19:22:45 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:22:45 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:22:45 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:22:49 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 4.174 seconds (JVM running for 4.869)
+2020-09-04 19:26:04 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:26:04 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:26:04 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:26:06 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.779 seconds (JVM running for 201.55)
+2020-09-04 19:26:19 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:26:19 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:26:19 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:26:21 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.798 seconds (JVM running for 216.454)
+2020-09-04 19:27:41 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:27:41 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:27:41 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:27:42 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.504 seconds (JVM running for 297.755)
+2020-09-04 19:28:24 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:28:24 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:28:24 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:28:26 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.577 seconds (JVM running for 341.244)
+2020-09-04 19:28:45 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:28:45 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:28:45 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:28:46 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.489 seconds (JVM running for 361.933)
+2020-09-04 19:28:48 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:28:48 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:28:48 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:28:49 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.472 seconds (JVM running for 365.086)
+2020-09-04 19:29:05 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:29:05 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:29:05 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:29:29 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:29:29 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:29:29 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:29:46 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:29:46 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:29:46 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:29:57 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:29:57 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:29:57 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:30:18 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:30:18 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:30:18 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:30:26 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:30:26 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:30:26 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:30:52 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:30:52 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:30:52 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:31:10 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:31:10 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:31:10 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:31:27 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:31:27 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:31:27 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:31:29 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.604 seconds (JVM running for 524.129)
+2020-09-04 19:31:31 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:31:31 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:31:31 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:31:33 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.436 seconds (JVM running for 528.372)
+2020-09-04 19:31:46 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:31:46 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:31:46 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:31:48 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.723 seconds (JVM running for 543.273)
+2020-09-04 19:31:56 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:31:56 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:31:56 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:31:57 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.336 seconds (JVM running for 552.503)
+2020-09-04 19:32:56 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:32:56 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:32:56 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:33:09 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:33:09 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:33:09 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:33:35 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:33:35 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:33:35 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:33:41 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:33:41 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:33:41 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:33:48 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:33:48 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:33:48 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:33:49 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.616 seconds (JVM running for 664.906)
+2020-09-04 19:34:21 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:34:21 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:34:21 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:34:23 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.649 seconds (JVM running for 698.335)
+2020-09-04 19:34:31 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:34:31 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:34:31 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:34:32 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.553 seconds (JVM running for 707.758)
+2020-09-04 19:34:52 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3312 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-04 19:34:52 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-04 19:34:52 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-04 19:34:53 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.467 seconds (JVM running for 728.547)

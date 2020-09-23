@@ -1,0 +1,11 @@
+2020-09-15 11:40:01 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10168 (C:\Users\nandh\git\repository10\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository10\qdm-care-supervisor)
+2020-09-15 11:40:01 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-15 11:40:01 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-15 11:40:08 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 7.117 seconds (JVM running for 8.403)
+2020-09-15 14:54:15 [http-nio-8443-exec-8] INFO  c.q.c.u.c.CareProviderController - Created Care Provider Successfully With ID : 1
+2020-09-15 14:54:54 [http-nio-8443-exec-9] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : could not execute statement; SQL [n/a]; constraint [caregiver_caregiver_id]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2020-09-15 14:56:03 [http-nio-8443-exec-1] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : could not execute statement; SQL [n/a]; constraint [caregiver_caregiver_id]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2020-09-15 14:56:10 [http-nio-8443-exec-4] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 3
+2020-09-15 14:56:42 [http-nio-8443-exec-6] INFO  c.q.c.u.c.CareGiverController - No CareGiver Found with Id : 1
+2020-09-15 14:56:49 [http-nio-8443-exec-7] ERROR c.q.c.u.c.CareGiverController - Error Occured At getCareGiver : null
+2020-09-15 14:57:05 [http-nio-8443-exec-9] INFO  c.q.c.u.c.CareGiverController - No CareGiver Found with Id : 1

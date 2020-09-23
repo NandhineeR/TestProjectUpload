@@ -1,0 +1,4 @@
+2020-09-15 14:54:54 [http-nio-8443-exec-9] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: null value in column "caregiver_caregiver_id" violates not-null constraint
+  Detail: Failing row contains (1, Spec1, 1, null).
+2020-09-15 14:56:03 [http-nio-8443-exec-1] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: null value in column "caregiver_caregiver_id" violates not-null constraint
+  Detail: Failing row contains (2, Spec1, 1, null).

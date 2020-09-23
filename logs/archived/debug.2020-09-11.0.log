@@ -1,0 +1,302 @@
+2020-09-11 09:56:30 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 09:56:30 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 09:56:30 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 09:56:34 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 4.006 seconds (JVM running for 4.756)
+2020-09-11 09:57:01 [http-nio-8443-exec-1] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 1
+2020-09-11 09:57:51 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 09:57:51 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 09:57:51 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 09:57:52 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.533 seconds (JVM running for 82.69)
+2020-09-11 09:58:09 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 09:58:09 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 09:58:09 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 09:58:10 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.242 seconds (JVM running for 100.962)
+2020-09-11 09:58:26 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 09:58:26 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 09:58:26 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 09:58:46 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 09:58:46 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 09:58:46 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 09:58:55 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 09:58:55 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 09:58:55 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 09:59:07 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 09:59:07 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 09:59:07 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 09:59:08 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.171 seconds (JVM running for 158.569)
+2020-09-11 09:59:13 [http-nio-8443-exec-2] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 2
+2020-09-11 10:00:21 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:00:21 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:00:21 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:00:22 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.393 seconds (JVM running for 232.653)
+2020-09-11 10:00:53 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:00:53 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:00:53 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:00:55 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.167 seconds (JVM running for 265.097)
+2020-09-11 10:01:02 [http-nio-8443-exec-2] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : detached entity passed to persist: com.qdm.cs.usermanagement.entity.Specialization; nested exception is org.hibernate.PersistentObjectException: detached entity passed to persist: com.qdm.cs.usermanagement.entity.Specialization
+2020-09-11 10:01:22 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:01:22 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:01:22 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:01:23 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.217 seconds (JVM running for 293.586)
+2020-09-11 10:01:27 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:01:27 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:01:27 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:01:28 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.107 seconds (JVM running for 298.393)
+2020-09-11 10:01:31 [http-nio-8443-exec-2] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : detached entity passed to persist: com.qdm.cs.usermanagement.entity.Specialization; nested exception is org.hibernate.PersistentObjectException: detached entity passed to persist: com.qdm.cs.usermanagement.entity.Specialization
+2020-09-11 10:02:30 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:02:30 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:02:30 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:02:31 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.109 seconds (JVM running for 361.378)
+2020-09-11 10:02:38 [http-nio-8443-exec-2] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : could not execute statement; SQL [n/a]; constraint [id]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2020-09-11 10:03:31 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:03:31 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:03:31 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:03:32 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.179 seconds (JVM running for 422.454)
+2020-09-11 10:03:55 [http-nio-8443-exec-2] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : could not execute statement; SQL [n/a]; constraint [id]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2020-09-11 10:04:16 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:04:16 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:04:16 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:04:17 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.06 seconds (JVM running for 468.045)
+2020-09-11 10:04:20 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:04:20 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:04:20 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:04:21 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.079 seconds (JVM running for 471.78)
+2020-09-11 10:04:25 [http-nio-8443-exec-2] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 1
+2020-09-11 10:04:34 [http-nio-8443-exec-3] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-09-11 10:06:31 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:06:31 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:06:31 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:06:32 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.238 seconds (JVM running for 602.401)
+2020-09-11 10:06:37 [http-nio-8443-exec-2] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-09-11 10:07:16 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:07:16 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:07:16 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:07:17 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.167 seconds (JVM running for 647.211)
+2020-09-11 10:07:20 [http-nio-8443-exec-2] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-09-11 10:08:22 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:08:22 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:08:22 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:08:38 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:08:38 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:08:38 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:08:51 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:08:51 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:08:51 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:09:02 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:09:02 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:09:02 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:09:15 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:09:15 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:09:15 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:09:16 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.167 seconds (JVM running for 766.933)
+2020-09-11 10:09:24 [http-nio-8443-exec-2] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-09-11 10:10:45 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:10:45 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:10:45 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:11:55 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:11:55 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:11:55 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:12:01 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:12:01 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:12:01 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:12:02 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.162 seconds (JVM running for 932.502)
+2020-09-11 10:16:31 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:16:31 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:16:31 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:16:33 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.32 seconds (JVM running for 1203.134)
+2020-09-11 10:16:55 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:16:55 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:16:55 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:16:56 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.267 seconds (JVM running for 1226.892)
+2020-09-11 10:17:15 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:17:15 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:17:15 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:17:16 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.238 seconds (JVM running for 1246.286)
+2020-09-11 10:17:19 [http-nio-8443-exec-2] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-09-11 10:17:25 [http-nio-8443-exec-3] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 2
+2020-09-11 10:17:31 [http-nio-8443-exec-4] INFO  c.q.c.u.c.CareGiverController - Care Givers List {offset=0, total_count=2, list=[{service=, isactive=Active, name=Marry, profile_pic=http://localhost:8443/careSupervisor/management/careGiver/downloadFile/1, orderList=[{"count":0,"name":"Clients"}], care_provider=[], id=1, category=[]}, {service=, isactive=Active, name=Marry, profile_pic=http://localhost:8443/careSupervisor/management/careGiver/downloadFile/2, orderList=[{"count":0,"name":"Clients"}], care_provider=[], id=2, category=[]}]}
+2020-09-11 10:18:04 [http-nio-8443-exec-5] INFO  c.q.c.u.c.CareProviderController - Get All CareProviders Records
+2020-09-11 10:18:12 [http-nio-8443-exec-6] INFO  c.q.c.u.c.CareProviderController - Created Care Provider Successfully With ID : 1
+2020-09-11 10:18:13 [http-nio-8443-exec-7] INFO  c.q.c.u.c.CareProviderController - Created Care Provider Successfully With ID : 2
+2020-09-11 10:18:18 [http-nio-8443-exec-8] INFO  c.q.c.u.c.CareProviderController - Get All CareProviders Records
+2020-09-11 10:18:53 [http-nio-8443-exec-9] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-09-11 10:29:49 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:29:49 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:29:49 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:29:50 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.184 seconds (JVM running for 2000.402)
+2020-09-11 10:31:29 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:31:29 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:31:29 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:31:30 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.105 seconds (JVM running for 2100.176)
+2020-09-11 10:31:56 [http-nio-8443-exec-4] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 1
+2020-09-11 10:33:15 [http-nio-8443-exec-8] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 2
+2020-09-11 10:34:44 [http-nio-8443-exec-3] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 3
+2020-09-11 10:34:50 [http-nio-8443-exec-4] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-09-11 10:35:00 [http-nio-8443-exec-2] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 2
+2020-09-11 10:35:07 [http-nio-8443-exec-5] INFO  c.q.c.u.c.CareGiverController - Care Givers List {offset=0, total_count=3, list=[{service=, isactive=Active, name=Marry, profile_pic=http://localhost:8443/careSupervisor/management/careGiver/downloadFile/1, orderList=[{"count":0,"name":"Clients"}], care_provider=[], id=1, category=[]}, {service=, isactive=Active, name=Marry, profile_pic=http://localhost:8443/careSupervisor/management/careGiver/downloadFile/2, orderList=[{"count":0,"name":"Clients"}], care_provider=[], id=2, category=[]}, {service=, isactive=Active, name=Marry, profile_pic=http://localhost:8443/careSupervisor/management/careGiver/downloadFile/3, orderList=[{"count":0,"name":"Clients"}], care_provider=[], id=3, category=[]}]}
+2020-09-11 10:35:12 [http-nio-8443-exec-6] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 3
+2020-09-11 10:36:24 [http-nio-8443-exec-10] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 2
+2020-09-11 10:40:40 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:40:40 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:40:40 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:40:41 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.196 seconds (JVM running for 2651.874)
+2020-09-11 10:40:57 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:40:57 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:40:57 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:40:58 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.087 seconds (JVM running for 2668.971)
+2020-09-11 10:41:10 [http-nio-8443-exec-2] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : detached entity passed to persist: com.qdm.cs.usermanagement.entity.Specialization; nested exception is org.hibernate.PersistentObjectException: detached entity passed to persist: com.qdm.cs.usermanagement.entity.Specialization
+2020-09-11 10:41:25 [http-nio-8443-exec-4] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : could not execute statement; SQL [n/a]; constraint [fkrm1nkdf7seb8fmrhy4g4gjg2r]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2020-09-11 10:41:35 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:41:35 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:41:35 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:41:36 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.109 seconds (JVM running for 2706.424)
+2020-09-11 10:41:40 [http-nio-8443-exec-2] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : could not execute statement; SQL [n/a]; constraint [fkrm1nkdf7seb8fmrhy4g4gjg2r]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2020-09-11 10:41:44 [http-nio-8443-exec-4] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : could not execute statement; SQL [n/a]; constraint [fkrm1nkdf7seb8fmrhy4g4gjg2r]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2020-09-11 10:41:49 [http-nio-8443-exec-6] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 3
+2020-09-11 10:42:15 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:42:15 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:42:15 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:42:16 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.066 seconds (JVM running for 2746.827)
+2020-09-11 10:42:19 [http-nio-8443-exec-2] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 1
+2020-09-11 10:42:24 [http-nio-8443-exec-3] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 2
+2020-09-11 10:43:17 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:43:17 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:43:17 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:43:18 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.103 seconds (JVM running for 2808.776)
+2020-09-11 10:43:27 [http-nio-8443-exec-2] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : Error accessing field [int com.qdm.cs.usermanagement.entity.Specialization.id] by reflection for persistent property [com.qdm.cs.usermanagement.entity.Specialization#id] : SpecializationList(value=0, label=Spec1); nested exception is org.hibernate.property.access.spi.PropertyAccessException: Error accessing field [int com.qdm.cs.usermanagement.entity.Specialization.id] by reflection for persistent property [com.qdm.cs.usermanagement.entity.Specialization#id] : SpecializationList(value=0, label=Spec1)
+2020-09-11 10:43:53 [http-nio-8443-exec-5] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : Error accessing field [int com.qdm.cs.usermanagement.entity.Specialization.id] by reflection for persistent property [com.qdm.cs.usermanagement.entity.Specialization#id] : SpecializationList(value=1, label=Spec1); nested exception is org.hibernate.property.access.spi.PropertyAccessException: Error accessing field [int com.qdm.cs.usermanagement.entity.Specialization.id] by reflection for persistent property [com.qdm.cs.usermanagement.entity.Specialization#id] : SpecializationList(value=1, label=Spec1)
+2020-09-11 10:44:13 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:44:13 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:44:13 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:44:14 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.052 seconds (JVM running for 2864.634)
+2020-09-11 10:44:24 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:44:24 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:44:24 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:44:25 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.203 seconds (JVM running for 2875.753)
+2020-09-11 10:44:29 [http-nio-8443-exec-2] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 1
+2020-09-11 10:45:09 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:45:09 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:45:09 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:45:10 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.122 seconds (JVM running for 2920.374)
+2020-09-11 10:45:14 [http-nio-8443-exec-2] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : Error accessing field [int com.qdm.cs.usermanagement.entity.Specialization.id] by reflection for persistent property [com.qdm.cs.usermanagement.entity.Specialization#id] : SpecializationDTO(value=1, label=Spec1); nested exception is org.hibernate.property.access.spi.PropertyAccessException: Error accessing field [int com.qdm.cs.usermanagement.entity.Specialization.id] by reflection for persistent property [com.qdm.cs.usermanagement.entity.Specialization#id] : SpecializationDTO(value=1, label=Spec1)
+2020-09-11 10:45:26 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:45:26 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:45:26 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:45:27 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.071 seconds (JVM running for 2937.797)
+2020-09-11 10:45:31 [http-nio-8443-exec-3] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 1
+2020-09-11 10:45:46 [http-nio-8443-exec-2] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : could not execute statement; SQL [n/a]; constraint [fkrm1nkdf7seb8fmrhy4g4gjg2r]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2020-09-11 10:45:50 [http-nio-8443-exec-5] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 3
+2020-09-11 10:45:56 [http-nio-8443-exec-6] INFO  c.q.c.u.c.CareGiverController - No CareGiver Found with Id : 2
+2020-09-11 10:46:02 [http-nio-8443-exec-7] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-09-11 10:53:40 [http-nio-8443-exec-5] INFO  c.q.c.u.c.CareGiverController - Care Givers List {offset=0, total_count=2, list=[{service=, isactive=Active, name=Marry, profile_pic=http://localhost:8443/careSupervisor/management/careGiver/downloadFile/1, orderList=[{"count":0,"name":"Clients"}], care_provider=[], id=1, category=[]}, {service=, isactive=Active, name=Marry, profile_pic=http://localhost:8443/careSupervisor/management/careGiver/downloadFile/3, orderList=[{"count":0,"name":"Clients"}], care_provider=[], id=3, category=[]}]}
+2020-09-11 10:53:56 [http-nio-8443-exec-6] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 4
+2020-09-11 10:55:18 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 10:55:18 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 10:55:18 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 10:55:20 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.687 seconds (JVM running for 3530.676)
+2020-09-11 10:58:37 [http-nio-8443-exec-2] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 1
+2020-09-11 10:59:14 [http-nio-8443-exec-3] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 2
+2020-09-11 11:01:33 [http-nio-8443-exec-8] INFO  c.q.c.u.c.CareProviderController - Created Care Provider Successfully With ID : 1
+2020-09-11 11:01:37 [http-nio-8443-exec-9] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 3
+2020-09-11 11:01:46 [http-nio-8443-exec-10] INFO  c.q.c.u.c.CareGiverController - Care Givers List {offset=0, total_count=3, list=[{service=, isactive=Active, name=Marry, profile_pic=http://localhost:8443/careSupervisor/management/careGiver/downloadFile/1, orderList=[{"count":0,"name":"Clients"}], care_provider=[CareProviderList(id=1, name=bbb, profile_pic=null, category=null)], id=1, category=[]}, {service=, isactive=Active, name=Marry, profile_pic=http://localhost:8443/careSupervisor/management/careGiver/downloadFile/2, orderList=[{"count":0,"name":"Clients"}], care_provider=[CareProviderList(id=1, name=bbb, profile_pic=null, category=null)], id=2, category=[]}, {service=, isactive=Active, name=Marry, profile_pic=http://localhost:8443/careSupervisor/management/careGiver/downloadFile/4, orderList=[{"count":0,"name":"Clients"}], care_provider=[CareProviderList(id=1, name=bbb, profile_pic=null, category=null)], id=3, category=[]}]}
+2020-09-11 11:01:53 [http-nio-8443-exec-1] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 3
+2020-09-11 11:02:15 [http-nio-8443-exec-2] INFO  c.q.c.u.c.CareProviderController - Get All CareProviders Records
+2020-09-11 11:38:35 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10824 (C:\Users\nandh\git\QDM\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\QDM\qdm-care-supervisor)
+2020-09-11 11:38:35 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 11:38:35 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 11:38:38 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 3.258 seconds (JVM running for 6128.828)
+2020-09-11 16:09:58 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 6468 (C:\Users\nandh\git\repository10\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository10\qdm-care-supervisor)
+2020-09-11 16:09:58 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 16:09:58 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 16:10:03 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 5.097 seconds (JVM running for 5.962)
+2020-09-11 16:10:30 [http-nio-8443-exec-1] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 4
+2020-09-11 16:10:41 [http-nio-8443-exec-3] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-09-11 16:11:25 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 6468 (C:\Users\nandh\git\repository10\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository10\qdm-care-supervisor)
+2020-09-11 16:11:25 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 16:11:25 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 16:11:27 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.841 seconds (JVM running for 90.116)
+2020-09-11 16:12:06 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 6468 (C:\Users\nandh\git\repository10\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository10\qdm-care-supervisor)
+2020-09-11 16:12:06 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 16:12:06 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 16:12:08 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 2.024 seconds (JVM running for 131.119)
+2020-09-11 16:12:14 [http-nio-8443-exec-2] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-09-11 16:12:19 [http-nio-8443-exec-3] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-09-11 16:12:57 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 6468 (C:\Users\nandh\git\repository10\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository10\qdm-care-supervisor)
+2020-09-11 16:12:57 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 16:12:57 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 16:12:59 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.791 seconds (JVM running for 182.115)
+2020-09-11 16:13:04 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 6468 (C:\Users\nandh\git\repository10\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository10\qdm-care-supervisor)
+2020-09-11 16:13:04 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 16:13:04 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 16:13:06 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.754 seconds (JVM running for 188.725)
+2020-09-11 16:13:20 [http-nio-8443-exec-1] INFO  c.q.c.u.c.CareGiverController - No CareGiver Found with Id : 1
+2020-09-11 16:13:33 [http-nio-8443-exec-3] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 1
+2020-09-11 16:13:37 [http-nio-8443-exec-4] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-09-11 16:14:54 [http-nio-8443-exec-7] INFO  c.q.c.u.c.CareGiverController - CareGiver Updated Successfully with Id 1
+2020-09-11 16:15:02 [http-nio-8443-exec-8] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-09-11 16:16:00 [http-nio-8443-exec-9] INFO  c.q.c.u.c.CareGiverController - CareGiver Updated Successfully with Id 1
+2020-09-11 16:16:04 [http-nio-8443-exec-10] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-09-11 16:43:02 [http-nio-8443-exec-3] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-09-11 16:43:27 [http-nio-8443-exec-4] INFO  c.q.c.u.c.CareGiverController - CareGiver Updated Successfully with Id 1
+2020-09-11 16:43:34 [http-nio-8443-exec-5] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-09-11 16:44:04 [http-nio-8443-exec-6] INFO  c.q.c.u.c.CareGiverController - CareGiver Updated Successfully with Id 1
+2020-09-11 16:44:14 [http-nio-8443-exec-7] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-09-11 16:44:41 [http-nio-8443-exec-8] INFO  c.q.c.u.c.CareGiverController - CareGiver Updated Successfully with Id 1
+2020-09-11 16:44:51 [http-nio-8443-exec-9] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-09-11 16:45:15 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 6468 (C:\Users\nandh\git\repository10\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository10\qdm-care-supervisor)
+2020-09-11 16:45:15 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 16:45:15 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 16:45:17 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 2.062 seconds (JVM running for 2120.383)
+2020-09-11 16:45:19 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 6468 (C:\Users\nandh\git\repository10\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository10\qdm-care-supervisor)
+2020-09-11 16:45:19 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 16:45:19 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 16:45:21 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.549 seconds (JVM running for 2123.765)
+2020-09-11 16:45:29 [http-nio-8443-exec-2] INFO  c.q.c.u.c.CareGiverController - No CareGiver Found with Id : 1
+2020-09-11 16:45:35 [http-nio-8443-exec-3] ERROR c.q.c.u.c.CareGiverController - Error Occured At UpdateCareGiver : No value present
+2020-09-11 16:45:46 [http-nio-8443-exec-5] ERROR c.q.c.u.c.CareGiverController - Error Occured At UpdateCareGiver : No value present
+2020-09-11 16:45:59 [http-nio-8443-exec-7] ERROR c.q.c.u.c.CareGiverController - Error Occured At UpdateCareGiver : No value present
+2020-09-11 16:46:09 [http-nio-8443-exec-10] ERROR c.q.c.u.c.CareGiverController - Care Giver Id is Mandatory
+2020-09-11 16:46:28 [http-nio-8443-exec-1] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 1
+2020-09-11 16:46:40 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 6468 (C:\Users\nandh\git\repository10\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository10\qdm-care-supervisor)
+2020-09-11 16:46:40 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 16:46:40 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 16:46:41 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.334 seconds (JVM running for 2204.158)
+2020-09-11 16:46:44 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 6468 (C:\Users\nandh\git\repository10\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository10\qdm-care-supervisor)
+2020-09-11 16:46:44 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 16:46:44 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 16:46:45 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.301 seconds (JVM running for 2208.157)
+2020-09-11 16:47:08 [http-nio-8443-exec-2] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : null
+2020-09-11 16:47:14 [http-nio-8443-exec-4] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 1
+2020-09-11 16:48:35 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 6468 (C:\Users\nandh\git\repository10\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository10\qdm-care-supervisor)
+2020-09-11 16:48:35 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 16:48:35 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 16:48:36 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.306 seconds (JVM running for 2319.113)
+2020-09-11 16:48:43 [http-nio-8443-exec-2] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 2
+2020-09-11 16:49:09 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 6468 (C:\Users\nandh\git\repository10\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository10\qdm-care-supervisor)
+2020-09-11 16:49:09 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 16:49:09 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 16:49:11 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.589 seconds (JVM running for 2353.969)
+2020-09-11 16:49:32 [http-nio-8443-exec-1] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 3
+2020-09-11 16:49:36 [http-nio-8443-exec-3] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-09-11 16:50:26 [http-nio-8443-exec-4] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 4
+2020-09-11 16:50:31 [http-nio-8443-exec-5] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-09-11 16:50:48 [http-nio-8443-exec-6] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 2
+2020-09-11 16:50:58 [http-nio-8443-exec-7] INFO  c.q.c.u.c.CareGiverController - Care Givers List {offset=0, total_count=4, list=[{service=, isactive=Active, name=Marry, profile_pic=http://localhost:8443/careSupervisor/management/careGiver/downloadFile/1, orderList=[{"count":0,"name":"Clients"}], care_provider=[], id=1, category=[]}, {service=, isactive=Active, name=Marry, profile_pic=http://localhost:8443/careSupervisor/management/careGiver/downloadFile/2, orderList=[{"count":0,"name":"Clients"}], care_provider=[], id=2, category=[]}, {service=, isactive=Active, name=Marry, profile_pic=http://localhost:8443/careSupervisor/management/careGiver/downloadFile/3, orderList=[{"count":0,"name":"Clients"}], care_provider=[], id=3, category=[]}, {service=, isactive=Active, name=Marry, profile_pic=http://localhost:8443/careSupervisor/management/careGiver/downloadFile/4, orderList=[{"count":0,"name":"Clients"}], care_provider=[], id=4, category=[]}]}
+2020-09-11 16:58:49 [http-nio-8443-exec-10] INFO  c.q.c.u.c.CareGiverController - Care Givers List {offset=0, total_count=4, list=[{service=, isactive=Active, name=Marry, profile_pic=http://localhost:8443/careSupervisor/management/careGiver/downloadFile/1, orderList=[{"count":0,"name":"Clients"}], care_provider=[], id=1, category=[]}, {service=, isactive=Active, name=Marry, profile_pic=http://localhost:8443/careSupervisor/management/careGiver/downloadFile/2, orderList=[{"count":0,"name":"Clients"}], care_provider=[], id=2, category=[]}, {service=, isactive=Active, name=Marry, profile_pic=http://localhost:8443/careSupervisor/management/careGiver/downloadFile/3, orderList=[{"count":0,"name":"Clients"}], care_provider=[], id=3, category=[]}, {service=, isactive=Active, name=Marry, profile_pic=http://localhost:8443/careSupervisor/management/careGiver/downloadFile/4, orderList=[{"count":0,"name":"Clients"}], care_provider=[], id=4, category=[]}]}
+2020-09-11 16:58:58 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 6468 (C:\Users\nandh\git\repository10\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository10\qdm-care-supervisor)
+2020-09-11 16:58:58 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-11 16:58:58 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-09-11 16:59:00 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.532 seconds (JVM running for 2942.888)
+2020-09-11 16:59:04 [http-nio-8443-exec-2] INFO  c.q.c.u.c.CareGiverController - Care Givers List {}
+2020-09-11 16:59:19 [http-nio-8443-exec-3] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 1
+2020-09-11 16:59:28 [http-nio-8443-exec-10] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-09-11 17:00:05 [http-nio-8443-exec-6] INFO  c.q.c.u.c.CareGiverController - CareGiver Updated Successfully with Id 1
+2020-09-11 17:00:18 [http-nio-8443-exec-7] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-09-11 18:12:07 [http-nio-8443-exec-1] INFO  c.q.c.u.c.CareGiverController - CareGiver Updated Successfully with Id 1
+2020-09-11 18:12:26 [http-nio-8443-exec-2] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 1
+2020-09-11 18:29:57 [http-nio-8443-exec-4] INFO  c.q.c.u.c.CareGiverController - Care Givers List {offset=0, total_count=1, list=[{service=, isactive=Active, name=Marry, profile_pic=http://localhost:8443/careSupervisor/management/careGiver/downloadFile/3, orderList=[{"count":0,"name":"Clients"}], care_provider=[], id=1, category=[]}]}
+2020-09-11 18:37:46 [http-nio-8443-exec-7] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 2
+2020-09-11 18:37:51 [http-nio-8443-exec-8] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 3
+2020-09-11 19:00:43 [http-nio-8443-exec-1] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 4
+2020-09-11 19:01:00 [http-nio-8443-exec-3] ERROR c.q.c.u.c.CareGiverController - Error Occured At UpdateCareGiver : No value present
+2020-09-11 19:01:08 [http-nio-8443-exec-10] ERROR c.q.c.u.c.CareGiverController - Error Occured At UpdateCareGiver : No value present
